@@ -1,6 +1,6 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+
+.gradle/7.2/dependencies-accessors/dependencies-accessors.lock
+.gradle/7.2/dependencies-accessors/gc.properties
 *.iml
 .gradle
 /local.properties
@@ -15,4 +15,5 @@
 /captures
 .externalNativeBuild
 .cxx
+local.properties
 local.properties
